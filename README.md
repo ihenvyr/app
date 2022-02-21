@@ -27,3 +27,9 @@ https://ihenvyr.github.io/app/reactjs-interview-questions/terms-and-conditions.h
 https://ihenvyr.github.io/app/javascript-interview-questions/privacy-policy.html
 
 https://ihenvyr.github.io/app/javascript-interview-questions/terms-and-conditions.html
+
+### View.js Interview Questions
+
+https://ihenvyr.github.io/app/viewjs-interview-questions/privacy-policy.html
+
+https://ihenvyr.github.io/app/viewjs-interview-questions/terms-and-conditions.html
