@@ -28,8 +28,14 @@ https://ihenvyr.github.io/app/javascript-interview-questions/privacy-policy.html
 
 https://ihenvyr.github.io/app/javascript-interview-questions/terms-and-conditions.html
 
-### View.js Interview Questions
+### Vue.js Interview Questions
 
 https://ihenvyr.github.io/app/viewjs-interview-questions/privacy-policy.html
 
 https://ihenvyr.github.io/app/viewjs-interview-questions/terms-and-conditions.html
+
+### Angular Interview Questions
+
+https://ihenvyr.github.io/app/angular-interview-questions-app/privacy-policy.html
+
+https://ihenvyr.github.io/app/angular-interview-questions-app/terms-and-conditions.html
