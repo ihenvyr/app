@@ -39,3 +39,9 @@ https://ihenvyr.github.io/app/viewjs-interview-questions/terms-and-conditions.ht
 https://ihenvyr.github.io/app/angular-interview-questions-app/privacy-policy.html
 
 https://ihenvyr.github.io/app/angular-interview-questions-app/terms-and-conditions.html
+
+### TPC Product Codes
+
+https://ihenvyr.github.io/app/tpc-product-codes/privacy-policy.html
+
+https://ihenvyr.github.io/app/tpc-product-codes/terms-and-conditions.html
