@@ -40,7 +40,7 @@ https://ihenvyr.github.io/app/angular-interview-questions-app/privacy-policy.htm
 
 https://ihenvyr.github.io/app/angular-interview-questions-app/terms-and-conditions.html
 
-### TPC Product Codes
+### TPC Product E-Loader
 
 https://ihenvyr.github.io/app/tpc-product-codes/privacy-policy.html
 
