@@ -45,3 +45,9 @@ https://ihenvyr.github.io/app/angular-interview-questions-app/terms-and-conditio
 https://ihenvyr.github.io/app/tpc-product-codes/privacy-policy.html
 
 https://ihenvyr.github.io/app/tpc-product-codes/terms-and-conditions.html
+
+### TPC Product E-Loader
+
+https://ihenvyr.github.io/app/mashtag/privacy-policy.html
+
+https://ihenvyr.github.io/app/mashtag/terms-and-conditions.html
