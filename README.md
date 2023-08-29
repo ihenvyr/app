@@ -52,7 +52,7 @@ https://ihenvyr.github.io/app/mashtag/privacy-policy.html
 
 https://ihenvyr.github.io/app/mashtag/terms-and-conditions.html
 
-### MashTag
+### Javascript Quiz
 
 https://ihenvyr.github.io/app/javascript-quiz-app/privacy-policy.html
 
