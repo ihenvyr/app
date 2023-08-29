@@ -51,3 +51,9 @@ https://ihenvyr.github.io/app/tpc-product-codes/terms-and-conditions.html
 https://ihenvyr.github.io/app/mashtag/privacy-policy.html
 
 https://ihenvyr.github.io/app/mashtag/terms-and-conditions.html
+
+### MashTag
+
+https://ihenvyr.github.io/app/javascript-quiz-app/privacy-policy.html
+
+https://ihenvyr.github.io/app/javascript-quiz-app/terms-and-conditions.html
