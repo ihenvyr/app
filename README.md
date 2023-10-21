@@ -57,3 +57,9 @@ https://ihenvyr.github.io/app/mashtag/terms-and-conditions.html
 https://ihenvyr.github.io/app/javascript-quiz-app/privacy-policy.html
 
 https://ihenvyr.github.io/app/javascript-quiz-app/terms-and-conditions.html
+
+### TJ Karaoke Songbook
+
+https://ihenvyr.github.io/app/tj-karaoke-songbook/privacy-policy.html
+
+https://ihenvyr.github.io/app/tj-karaoke-songbook/terms-and-conditions.html
