@@ -40,11 +40,11 @@ https://ihenvyr.github.io/app/angular-interview-questions-app/privacy-policy.htm
 
 https://ihenvyr.github.io/app/angular-interview-questions-app/terms-and-conditions.html
 
-### TPC Product E-Loader
+### Product Codes E-Loader
 
-https://ihenvyr.github.io/app/tpc-product-codes/privacy-policy.html
+https://ihenvyr.github.io/app/product-codes-eloader/privacy-policy.html
 
-https://ihenvyr.github.io/app/tpc-product-codes/terms-and-conditions.html
+https://ihenvyr.github.io/app/product-codes-eloader/terms-and-conditions.html
 
 ### MashTag
 
