@@ -69,3 +69,9 @@ https://ihenvyr.github.io/app/tj-karaoke-songbook/terms-and-conditions.html
 https://ihenvyr.github.io/app/platinum-karaoke-songbook/privacy-policy.html
 
 https://ihenvyr.github.io/app/platinum-karaoke-songbook/terms-and-conditions.html
+
+### My Karaoke Songbook
+
+https://ihenvyr.github.io/app/my-karaoke-songbook/privacy-policy.html
+
+https://ihenvyr.github.io/app/my-karaoke-songbook/terms-and-conditions.html
